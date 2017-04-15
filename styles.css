@@ -177,6 +177,10 @@ footer {
 	margin: 5px;
 }
 
+.footer_links:hover {
+	color:darkred;
+}
+
 
 
 
